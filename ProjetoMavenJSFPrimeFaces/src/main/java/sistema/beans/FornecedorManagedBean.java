@@ -1,7 +1,5 @@
 package sistema.beans;
 
-
-
 import java.util.List;
 
 import javax.faces.application.FacesMessage;
@@ -18,10 +16,6 @@ import sistema.modelos.Aluno;
 import sistema.modelos.Fornecedor;
 import sistema.modelos.Produto;
 import sistema.service.FornecedorService;
-
-
-
-
 
 @ManagedBean
 @ViewScoped
